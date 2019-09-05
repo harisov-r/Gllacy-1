@@ -457,6 +457,11 @@ label[for="email"] {
     line-height: 21px;
     font-weight: 400;
 }
+
+.login {
+    border: 1px solid red;
+}
+
 .login:hover .login-form {
     display: block;
 }
